@@ -1,4 +1,6 @@
-It took some attempts to run in PlatformIO (as extention of VS-Code) but now it works without problems.
+
+
+It took some attempts to run EpoxyDuino in PlatformIO (as extention of VS-Code) but now it works without problems.
 Regarding the '*ino' vs '*.cpp' ist is very easy: keep the standard PlatformIO folder-stucture and rename your 'src/main.cpp' in '/src/mymain.cpp' 
 ```
 #include <Arduino.h>
